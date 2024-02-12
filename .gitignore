@@ -1,1 +1,4 @@
 data/
+__pycache__/
+home_credit.egg-info/
+.python-version
